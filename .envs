@@ -1,0 +1,2 @@
+export IMAGE_NAME=devtools
+export HOST_WORKSPACE="/tmp"
